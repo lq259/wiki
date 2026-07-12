@@ -8,7 +8,7 @@ Direct Pull Requests to Github for *.ts files are still possible but not recomme
 
 ## General approach
 
-Create an account on [translate.lxqt-project.org](https://translate.lxqt-project.org/accounts/login/?next=/) or login with your existing Github, Ubuntu, Fedora or OpenSuse account. It is also possible to add suggestions for strings _without_ having any account.
+Create an account on [translate.lxqt-project.org](https://translate.lxqt-project.org/accounts/login/?next=/) or login with your existing Github, Ubuntu, Fedora or OpenSUSE account. It is also possible to add suggestions for strings _without_ having any account.
 The LXQt Project is split up in 3 groups:
 
 * [LXQt-Desktop](https://translate.lxqt-project.org/projects/lxqt-desktop): Contains applications and main components.
